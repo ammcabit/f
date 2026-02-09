@@ -1,1 +1,24 @@
-a
+{
+  "app_links": {
+    "ourWebsite": "https://fultv.top",
+    "joinUs": "https://t.me/fultv0",
+    "whatsappChannel": "https://whatsapp.com/channel/0029Vb6Pzx4BlHpWJEwlfk3m",
+    "discordChannel": "https://whatsapp.com/channel/0029Vb6Pzx4BlHpWJEwlfk3m",
+    "monthlyUsers": "989k",
+    "feedbackUrl": "https://forms.gle/qGQfXCS2Eui6NM4X9",
+    "usersCountry": "Bangladesh, India, Saudi Arab, Canada",
+    "adsImpressions": "5M+"
+  },
+  "app_banners": {
+    "images": [
+      "https://i.postimg.cc/XNr9YWFn/If-You-want-to-Develop-an-Apps-Like-This.gif",
+      "https://images.icc-cricket.com/image/upload/t_ratio21_9-size50-webp/v1770359538/prd/w6zcges6dorepjxznndj",
+      "https://i.pinimg.com/1200x/75/04/25/75042578978e9cf0ff1aeb99a85b617b.jpg"
+    ],
+    "popUnderAdUrls": [
+      "<script src="https://pl28633067.effectivegatecpm.com/55/c0/ba/55c0ba613bb1cd7f885b01d24a909de7.js"></script>"
+    ],
+    "adScripts": []
+  },
+  "globalPopUnderAd": "<script src="https://pl28633067.effectivegatecpm.com/55/c0/ba/55c0ba613bb1cd7f885b01d24a909de7.js"></script>"
+}
