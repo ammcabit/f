@@ -12,7 +12,11 @@
   "app_banners": {
     "images": [
          "https://i.postimg.cc/90kTqFGM/2.gif",
-      "https://i.postimg.cc/vTK96HWm/3.gif"
+      "https://i.postimg.cc/vTK96HWm/3.gif", 
+      "https://i.pinimg.com/736x/e8/4d/c4/e84dc4bfbed6954400b80e81c54ff83b.jpg", 
+      "https://i.pinimg.com/1200x/b7/31/c4/b731c473a7bf4fb9fe8499fcf773a905.jpg", 
+      "https://i.pinimg.com/1200x/48/93/bf/4893bf35fdcdf2a49b9efe47bf008386.jpg",
+      "https://i.pinimg.com/1200x/37/b6/9e/37b69ee4c660bedbbb4c28c74d13aca2.jpg"
     ],
     "popUnderAdUrls": [
       ""
