@@ -11,8 +11,7 @@
   },
   "app_banners": {
     "images": [
-      "https://i.postimg.cc/zvQWRXnJ/1.gif",
-      "https://i.postimg.cc/90kTqFGM/2.gif",
+         "https://i.postimg.cc/90kTqFGM/2.gif",
       "https://i.postimg.cc/vTK96HWm/3.gif"
     ],
     "popUnderAdUrls": [
